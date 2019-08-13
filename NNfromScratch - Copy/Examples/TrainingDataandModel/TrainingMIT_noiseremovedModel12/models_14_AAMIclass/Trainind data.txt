@@ -1,0 +1,945 @@
+Epoch: 1      Accuracy : 95.4177       Training cost: 2895.7476     df: -2895.7476     costT: 2895.7476
+Epoch: 2      Accuracy : 96.7433       Training cost: 2350.5485     df: 545.1991     costT: 2350.5485
+Epoch: 3      Accuracy : 97.3854       Training cost: 1892.7461     df: 457.8024     costT: 1892.7461
+Epoch: 4      Accuracy : 97.9375       Training cost: 1516.7753     df: 375.9709     costT: 1516.7753
+Epoch: 5      Accuracy : 98.1418       Training cost: 1314.9524     df: 201.8228     costT: 1314.9524
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.1060
+
+Epoch: 1      Accuracy : 98.1831       Training cost: 1232.7167     df: -1232.7167     costT: 1232.7167
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.1477
+
+Epoch: 1      Accuracy : 98.188       Training cost: 1169.1208     df: -1169.1208     costT: 1169.1208
+Epoch: 2      Accuracy : 98.2002       Training cost: 1122.81     df: 46.3108     costT: 1122.81
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.1649
+
+Epoch: 1      Accuracy : 98.2148       Training cost: 1082.7621     df: -1082.7621     costT: 1082.7621
+Epoch: 2      Accuracy : 98.4288       Training cost: 1045.1129     df: 37.6492     costT: 1045.1129
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.1993
+
+Epoch: 1      Accuracy : 98.4288       Training cost: 1014.4969     df: -1014.4969     costT: 1014.4969
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.1993
+
+Epoch: 1      Accuracy : 98.4361       Training cost: 974.2854     df: -974.2854     costT: 974.2854
+Epoch: 2      Accuracy : 98.4872       Training cost: 940.7719     df: 33.5135     costT: 940.7719
+Epoch: 3      Accuracy : 98.4945       Training cost: 905.4851     df: 35.2868     costT: 905.4851
+Epoch: 4      Accuracy : 98.5115       Training cost: 879.2297     df: 26.2555     costT: 879.2297
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.2337
+
+Epoch: 1      Accuracy : 98.5796       Training cost: 852.1683     df: -852.1683     costT: 852.1683
+Epoch: 2      Accuracy : 98.7012       Training cost: 818.0057     df: 34.1626     costT: 818.0057
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.4253
+
+Epoch: 1      Accuracy : 98.7936       Training cost: 797.9985     df: -797.9985     costT: 797.9985
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.4695
+
+Epoch: 1      Accuracy : 98.852       Training cost: 760.4275     df: -760.4275     costT: 760.4275
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.4793
+
+Epoch: 1      Accuracy : 98.869       Training cost: 738.1077     df: -738.1077     costT: 738.1077
+Epoch: 2      Accuracy : 98.8933       Training cost: 709.3496     df: 28.7581     costT: 709.3496
+Epoch: 3      Accuracy : 98.9396       Training cost: 691.4402     df: 17.9094     costT: 691.4402
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.5186
+
+Epoch: 1      Accuracy : 98.9444       Training cost: 669.8201     df: -669.8201     costT: 669.8201
+Epoch: 2      Accuracy : 98.9955       Training cost: 638.4153     df: 31.4047     costT: 638.4153
+Epoch: 3      Accuracy : 98.9955       Training cost: 625.5614     df: 12.8539     costT: 625.5614
+Epoch: 4      Accuracy : 99.0052       Training cost: 608.2953     df: 17.2661     costT: 608.2953
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.5358
+
+Epoch: 1      Accuracy : 98.9979       Training cost: 586.7733     df: -586.7733     costT: 586.7733
+Epoch: 2      Accuracy : 99.015       Training cost: 574.6582     df: 12.1151     costT: 574.6582
+Epoch: 3      Accuracy : 99.0539       Training cost: 554.6899     df: 19.9683     costT: 554.6899
+Epoch: 4      Accuracy : 99.0636       Training cost: 542.921     df: 11.7689     costT: 542.921
+Epoch: 5      Accuracy : 99.1122       Training cost: 529.0591     df: 13.8619     costT: 529.0591
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.5456
+
+Epoch: 1      Accuracy : 99.1122       Training cost: 517.6985     df: -517.6985     costT: 517.6985
+Epoch: 2      Accuracy : 99.2679       Training cost: 495.4609     df: 22.2376     costT: 495.4609
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.5554
+
+Epoch: 1      Accuracy : 99.2679       Training cost: 482.6189     df: -482.6189     costT: 482.6189
+Epoch: 2      Accuracy : 99.3287       Training cost: 473.0797     df: 9.5393     costT: 473.0797
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.5677
+
+Epoch: 1      Accuracy : 99.336       Training cost: 459.314     df: -459.314     costT: 459.314
+Epoch: 2      Accuracy : 99.3944       Training cost: 456.8765     df: 2.4375     costT: 456.8765
+Epoch: 3      Accuracy : 99.3968       Training cost: 445.9453     df: 10.9312     costT: 445.9453
+Epoch: 4      Accuracy : 99.3992       Training cost: 433.551     df: 12.3943     costT: 433.551
+Epoch: 5      Accuracy : 99.4528       Training cost: 426.4617     df: 7.0893     costT: 426.4617
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.5947
+
+Epoch: 1      Accuracy : 99.4576       Training cost: 418.2613     df: -418.2613     costT: 418.2613
+Epoch: 2      Accuracy : 99.4601       Training cost: 409.9439     df: 8.3174     costT: 409.9439
+Epoch: 3      Accuracy : 99.4649       Training cost: 401.6742     df: 8.2697     costT: 401.6742
+Epoch: 4      Accuracy : 99.5233       Training cost: 392.7554     df: 8.9188     costT: 392.7554
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.6168
+
+Epoch: 1      Accuracy : 99.5233       Training cost: 385.9859     df: -385.9859     costT: 385.9859
+Epoch: 2      Accuracy : 99.5209       Training cost: 378.2989     df: 7.687     costT: 378.2989
+Epoch: 3      Accuracy : 99.5209       Training cost: 370.1856     df: 8.1133     costT: 370.1856
+Epoch: 4      Accuracy : 99.4698       Training cost: 370.1601     df: 0.025461     costT: 370.1601
+Epoch: 5      Accuracy : 99.5744       Training cost: 358.7257     df: 11.4344     costT: 358.7257
+Epoch: 6      Accuracy : 99.5744       Training cost: 351.0038     df: 7.7219     costT: 351.0038
+Epoch: 7      Accuracy : 99.5768       Training cost: 346.1519     df: 4.8519     costT: 346.1519
+Epoch: 8      Accuracy : 99.5792       Training cost: 339.2265     df: 6.9254     costT: 339.2265
+Epoch: 9      Accuracy : 99.5817       Training cost: 333.0533     df: 6.1732     costT: 333.0533
+Epoch: 10      Accuracy : 99.5914       Training cost: 332.7883     df: 0.26506     costT: 332.7883
+Epoch: 11      Accuracy : 99.5817       Training cost: 323.0675     df: 9.7208     costT: 323.0675
+Epoch: 12      Accuracy : 99.589       Training cost: 318.252     df: 4.8154     costT: 318.252
+Epoch: 13      Accuracy : 99.5938       Training cost: 314.1607     df: 4.0913     costT: 314.1607
+Epoch: 14      Accuracy : 99.5938       Training cost: 309.4757     df: 4.685     costT: 309.4757
+Epoch: 15      Accuracy : 99.5938       Training cost: 303.2015     df: 6.2743     costT: 303.2015
+Epoch: 16      Accuracy : 99.5987       Training cost: 298.0296     df: 5.1718     costT: 298.0296
+Epoch: 17      Accuracy : 99.6011       Training cost: 294.8794     df: 3.1503     costT: 294.8794
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.6463
+
+Epoch: 1      Accuracy : 99.6011       Training cost: 289.4283     df: -289.4283     costT: 289.4283
+Epoch: 2      Accuracy : 99.6011       Training cost: 284.6319     df: 4.7963     costT: 284.6319
+Epoch: 3      Accuracy : 99.5987       Training cost: 282.4429     df: 2.189     costT: 282.4429
+Epoch: 4      Accuracy : 99.6108       Training cost: 275.7135     df: 6.7294     costT: 275.7135
+Epoch: 5      Accuracy : 99.6108       Training cost: 273.5486     df: 2.1649     costT: 273.5486
+Epoch: 6      Accuracy : 99.6133       Training cost: 269.587     df: 3.9615     costT: 269.587
+Epoch: 7      Accuracy : 99.6181       Training cost: 267.4828     df: 2.1042     costT: 267.4828
+Epoch: 8      Accuracy : 99.623       Training cost: 261.821     df: 5.6618     costT: 261.821
+Epoch: 9      Accuracy : 99.6279       Training cost: 259.8313     df: 1.9896     costT: 259.8313
+Epoch: 10      Accuracy : 99.623       Training cost: 255.9734     df: 3.8579     costT: 255.9734
+Epoch: 11      Accuracy : 99.6327       Training cost: 254.1006     df: 1.8728     costT: 254.1006
+Epoch: 12      Accuracy : 99.6279       Training cost: 251.2118     df: 2.8889     costT: 251.2118
+Epoch: 13      Accuracy : 99.6425       Training cost: 246.5672     df: 4.6445     costT: 246.5672
+Epoch: 14      Accuracy : 99.6425       Training cost: 245.6045     df: 0.96275     costT: 245.6045
+Epoch: 15      Accuracy : 99.6449       Training cost: 242.9977     df: 2.6068     costT: 242.9977
+Epoch: 16      Accuracy : 99.696       Training cost: 240.4942     df: 2.5036     costT: 240.4942
+Epoch: 17      Accuracy : 99.7008       Training cost: 237.9754     df: 2.5187     costT: 237.9754
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.6979
+
+Epoch: 1      Accuracy : 99.7057       Training cost: 233.7363     df: -233.7363     costT: 233.7363
+Epoch: 2      Accuracy : 99.7106       Training cost: 235.7279     df: -1.9916     costT: 235.7279
+Epoch: 3      Accuracy : 99.7081       Training cost: 233.206     df: 2.5219     costT: 233.206
+Epoch: 4      Accuracy : 99.713       Training cost: 226.7926     df: 6.4134     costT: 226.7926
+Epoch: 5      Accuracy : 99.7203       Training cost: 225.1715     df: 1.621     costT: 225.1715
+Epoch: 6      Accuracy : 99.7252       Training cost: 223.7211     df: 1.4504     costT: 223.7211
+Epoch: 7      Accuracy : 99.7276       Training cost: 220.597     df: 3.1241     costT: 220.597
+Epoch: 8      Accuracy : 99.7276       Training cost: 220.9731     df: -0.37612     costT: 220.9731
+Epoch: 9      Accuracy : 99.7276       Training cost: 218.4175     df: 2.5557     costT: 218.4175
+Epoch: 10      Accuracy : 99.73       Training cost: 216.0322     df: 2.3853     costT: 216.0322
+Epoch: 11      Accuracy : 99.7373       Training cost: 215.1644     df: 0.86779     costT: 215.1644
+Epoch: 12      Accuracy : 99.7325       Training cost: 212.4844     df: 2.68     costT: 212.4844
+Epoch: 13      Accuracy : 99.7349       Training cost: 210.9033     df: 1.5812     costT: 210.9033
+Epoch: 14      Accuracy : 99.7398       Training cost: 209.3328     df: 1.5705     costT: 209.3328
+Epoch: 15      Accuracy : 99.7446       Training cost: 208.48     df: 0.8528     costT: 208.48
+Epoch: 16      Accuracy : 99.7398       Training cost: 206.5587     df: 1.9213     costT: 206.5587
+Epoch: 17      Accuracy : 99.7446       Training cost: 204.5203     df: 2.0384     costT: 204.5203
+Epoch: 18      Accuracy : 99.7446       Training cost: 202.2938     df: 2.2265     costT: 202.2938
+Epoch: 19      Accuracy : 99.7398       Training cost: 201.3977     df: 0.89616     costT: 201.3977
+Epoch: 20      Accuracy : 99.7446       Training cost: 200.616     df: 0.78169     costT: 200.616
+Epoch: 21      Accuracy : 99.7446       Training cost: 200.0146     df: 0.60136     costT: 200.0146
+Epoch: 22      Accuracy : 99.7519       Training cost: 196.9158     df: 3.0989     costT: 196.9158
+Epoch: 23      Accuracy : 99.7495       Training cost: 196.0661     df: 0.84965     costT: 196.0661
+Epoch: 24      Accuracy : 99.7446       Training cost: 196.6887     df: -0.62259     costT: 196.6887
+Epoch: 25      Accuracy : 99.7495       Training cost: 193.2389     df: 3.4498     costT: 193.2389
+Epoch: 26      Accuracy : 99.7543       Training cost: 193.1719     df: 0.066945     costT: 193.1719
+Epoch: 27      Accuracy : 99.7495       Training cost: 192.6692     df: 0.50273     costT: 192.6692
+Epoch: 28      Accuracy : 99.7519       Training cost: 189.1019     df: 3.5674     costT: 189.1019
+Epoch: 29      Accuracy : 99.7543       Training cost: 190.4075     df: -1.3056     costT: 190.4075
+Epoch: 30      Accuracy : 99.7543       Training cost: 189.51     df: 0.89749     costT: 189.51
+Epoch: 31      Accuracy : 99.7568       Training cost: 186.2292     df: 3.2809     costT: 186.2292
+Epoch: 32      Accuracy : 99.7592       Training cost: 186.3041     df: -0.074922     costT: 186.3041
+Epoch: 33      Accuracy : 99.7568       Training cost: 185.4103     df: 0.89378     costT: 185.4103
+Epoch: 34      Accuracy : 99.7592       Training cost: 184.6773     df: 0.73301     costT: 184.6773
+Epoch: 35      Accuracy : 99.7641       Training cost: 181.8279     df: 2.8494     costT: 181.8279
+Epoch: 36      Accuracy : 99.7665       Training cost: 180.9693     df: 0.85861     costT: 180.9693
+Epoch: 37      Accuracy : 99.7641       Training cost: 179.9521     df: 1.0172     costT: 179.9521
+Epoch: 38      Accuracy : 99.7665       Training cost: 181.2053     df: -1.2532     costT: 181.2053
+Epoch: 39      Accuracy : 99.7665       Training cost: 178.3661     df: 2.8392     costT: 178.3661
+Epoch: 40      Accuracy : 99.7616       Training cost: 177.9253     df: 0.44084     costT: 177.9253
+Epoch: 41      Accuracy : 99.7641       Training cost: 177.0051     df: 0.92019     costT: 177.0051
+Epoch: 42      Accuracy : 99.7714       Training cost: 176.1441     df: 0.86098     costT: 176.1441
+Epoch: 43      Accuracy : 99.7689       Training cost: 175.3711     df: 0.77302     costT: 175.3711
+Epoch: 44      Accuracy : 99.7714       Training cost: 174.4957     df: 0.87536     costT: 174.4957
+Epoch: 45      Accuracy : 99.7689       Training cost: 177.9682     df: -3.4725     costT: 177.9682
+Epoch: 46      Accuracy : 99.7738       Training cost: 172.4246     df: 5.5437     costT: 172.4246
+Epoch: 47      Accuracy : 99.7787       Training cost: 172.1084     df: 0.31613     costT: 172.1084
+Epoch: 48      Accuracy : 99.7738       Training cost: 171.6244     df: 0.484     costT: 171.6244
+Epoch: 49      Accuracy : 99.7787       Training cost: 170.6437     df: 0.98076     costT: 170.6437
+Epoch: 50      Accuracy : 99.7738       Training cost: 169.7904     df: 0.85324     costT: 169.7904
+Epoch: 51      Accuracy : 99.7762       Training cost: 169.3059     df: 0.48451     costT: 169.3059
+Epoch: 52      Accuracy : 99.7787       Training cost: 169.6831     df: -0.3772     costT: 169.6831
+Epoch: 53      Accuracy : 99.7787       Training cost: 168.1911     df: 1.4921     costT: 168.1911
+Epoch: 54      Accuracy : 99.7738       Training cost: 167.376     df: 0.81503     costT: 167.376
+Epoch: 55      Accuracy : 99.7787       Training cost: 166.6574     df: 0.71861     costT: 166.6574
+Epoch: 56      Accuracy : 99.7787       Training cost: 165.8894     df: 0.768     costT: 165.8894
+Epoch: 57      Accuracy : 99.7835       Training cost: 166.0792     df: -0.18983     costT: 166.0792
+Epoch: 58      Accuracy : 99.7811       Training cost: 166.0751     df: 0.0041732     costT: 166.0751
+Epoch: 59      Accuracy : 99.786       Training cost: 164.6428     df: 1.4323     costT: 164.6428
+Epoch: 60      Accuracy : 99.7884       Training cost: 164.7059     df: -0.06309     costT: 164.7059
+Epoch: 61      Accuracy : 99.7835       Training cost: 163.9002     df: 0.80562     costT: 163.9002
+Epoch: 62      Accuracy : 99.7835       Training cost: 165.0945     df: -1.1943     costT: 165.0945
+Epoch: 63      Accuracy : 99.7787       Training cost: 163.0992     df: 1.9953     costT: 163.0992
+Epoch: 64      Accuracy : 99.7811       Training cost: 163.3677     df: -0.26845     costT: 163.3677
+Epoch: 65      Accuracy : 99.7787       Training cost: 161.9208     df: 1.4469     costT: 161.9208
+Epoch: 66      Accuracy : 99.7884       Training cost: 161.1987     df: 0.72202     costT: 161.1987
+Epoch: 67      Accuracy : 99.7884       Training cost: 161.2182     df: -0.019449     costT: 161.2182
+Epoch: 68      Accuracy : 99.786       Training cost: 162.4461     df: -1.2279     costT: 162.4461
+Epoch: 69      Accuracy : 99.786       Training cost: 161.1131     df: 1.333     costT: 161.1131
+Epoch: 70      Accuracy : 99.7884       Training cost: 161.3206     df: -0.20752     costT: 161.3206
+Epoch: 71      Accuracy : 99.7835       Training cost: 160.3741     df: 0.94649     costT: 160.3741
+Epoch: 72      Accuracy : 99.7933       Training cost: 158.6417     df: 1.7325     costT: 158.6417
+Epoch: 73      Accuracy : 99.7933       Training cost: 160.4524     df: -1.8107     costT: 160.4524
+Epoch: 74      Accuracy : 99.7908       Training cost: 163.2463     df: -2.7939     costT: 163.2463
+Epoch: 75      Accuracy : 99.7957       Training cost: 158.7611     df: 4.4852     costT: 158.7611
+Epoch: 76      Accuracy : 99.7933       Training cost: 159.0746     df: -0.31353     costT: 159.0746
+Epoch: 77      Accuracy : 99.7933       Training cost: 158.5234     df: 0.5512     costT: 158.5234
+Epoch: 78      Accuracy : 99.786       Training cost: 159.0523     df: -0.52885     costT: 159.0523
+Epoch: 79      Accuracy : 99.7908       Training cost: 159.1825     df: -0.1302     costT: 159.1825
+Epoch: 80      Accuracy : 99.8006       Training cost: 157.3808     df: 1.8017     costT: 157.3808
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.7986
+
+Epoch: 1      Accuracy : 99.7884       Training cost: 159.6613     df: -159.6613     costT: 159.6613
+Epoch: 2      Accuracy : 99.7933       Training cost: 158.7984     df: 0.86286     costT: 158.7984
+Epoch: 3      Accuracy : 99.7981       Training cost: 156.6147     df: 2.1837     costT: 156.6147
+Epoch: 4      Accuracy : 99.786       Training cost: 159.0086     df: -2.3939     costT: 159.0086
+Epoch: 5      Accuracy : 99.7884       Training cost: 157.5012     df: 1.5075     costT: 157.5012
+Epoch: 6      Accuracy : 99.7933       Training cost: 156.9836     df: 0.5176     costT: 156.9836
+Epoch: 7      Accuracy : 99.7811       Training cost: 163.2759     df: -6.2923     costT: 163.2759
+Epoch: 8      Accuracy : 99.7787       Training cost: 160.2924     df: 2.9835     costT: 160.2924
+Epoch: 9      Accuracy : 99.7884       Training cost: 157.9292     df: 2.3631     costT: 157.9292
+Epoch: 10      Accuracy : 99.786       Training cost: 159.1887     df: -1.2595     costT: 159.1887
+Epoch: 11      Accuracy : 99.7884       Training cost: 157.4971     df: 1.6916     costT: 157.4971
+Epoch: 12      Accuracy : 99.7933       Training cost: 157.1802     df: 0.31692     costT: 157.1802
+Epoch: 13      Accuracy : 99.7908       Training cost: 156.6689     df: 0.51122     costT: 156.6689
+Epoch: 14      Accuracy : 99.7811       Training cost: 159.5719     df: -2.903     costT: 159.5719
+Epoch: 15      Accuracy : 99.7762       Training cost: 159.2681     df: 0.30379     costT: 159.2681
+Epoch: 16      Accuracy : 99.7811       Training cost: 158.7665     df: 0.50165     costT: 158.7665
+Epoch: 17      Accuracy : 99.7714       Training cost: 158.1353     df: 0.63111     costT: 158.1353
+Epoch: 18      Accuracy : 99.7714       Training cost: 159.7193     df: -1.5839     costT: 159.7193
+Epoch: 19      Accuracy : 99.7689       Training cost: 159.007     df: 0.71229     costT: 159.007
+Epoch: 20      Accuracy : 99.7738       Training cost: 158.0609     df: 0.94612     costT: 158.0609
+Epoch: 21      Accuracy : 99.7787       Training cost: 157.4968     df: 0.56407     costT: 157.4968
+Epoch: 22      Accuracy : 99.7714       Training cost: 156.723     df: 0.77379     costT: 156.723
+Epoch: 23      Accuracy : 99.7689       Training cost: 161.3619     df: -4.6389     costT: 161.3619
+Epoch: 24      Accuracy : 99.7762       Training cost: 157.5614     df: 3.8005     costT: 157.5614
+Epoch: 25      Accuracy : 99.7787       Training cost: 154.6433     df: 2.9181     costT: 154.6433
+Epoch: 26      Accuracy : 99.7762       Training cost: 154.0341     df: 0.60927     costT: 154.0341
+Epoch: 27      Accuracy : 99.7811       Training cost: 154.3866     df: -0.35256     costT: 154.3866
+Epoch: 28      Accuracy : 99.7714       Training cost: 155.6238     df: -1.2372     costT: 155.6238
+Epoch: 29      Accuracy : 99.7689       Training cost: 157.4375     df: -1.8137     costT: 157.4375
+Epoch: 30      Accuracy : 99.7738       Training cost: 155.281     df: 2.1565     costT: 155.281
+Epoch: 31      Accuracy : 99.7714       Training cost: 152.4321     df: 2.8489     costT: 152.4321
+Epoch: 32      Accuracy : 99.7835       Training cost: 149.7406     df: 2.6915     costT: 149.7406
+Epoch: 33      Accuracy : 99.7884       Training cost: 147.0815     df: 2.6591     costT: 147.0815
+Epoch: 34      Accuracy : 99.7884       Training cost: 149.8648     df: -2.7833     costT: 149.8648
+Epoch: 35      Accuracy : 99.7835       Training cost: 146.591     df: 3.2738     costT: 146.591
+Epoch: 36      Accuracy : 99.7933       Training cost: 144.3749     df: 2.2162     costT: 144.3749
+Epoch: 37      Accuracy : 99.7835       Training cost: 146.2558     df: -1.8809     costT: 146.2558
+Epoch: 38      Accuracy : 99.7957       Training cost: 140.4944     df: 5.7613     costT: 140.4944
+Epoch: 39      Accuracy : 99.7908       Training cost: 141.237     df: -0.74262     costT: 141.237
+Epoch: 40      Accuracy : 99.7957       Training cost: 139.7475     df: 1.4895     costT: 139.7475
+Epoch: 41      Accuracy : 99.8127       Training cost: 136.6337     df: 3.1138     costT: 136.6337
+Epoch: 42      Accuracy : 99.803       Training cost: 139.4863     df: -2.8526     costT: 139.4863
+Epoch: 43      Accuracy : 99.803       Training cost: 136.0581     df: 3.4282     costT: 136.0581
+Epoch: 44      Accuracy : 99.8127       Training cost: 134.1539     df: 1.9042     costT: 134.1539
+Epoch: 45      Accuracy : 99.8079       Training cost: 134.2257     df: -0.071873     costT: 134.2257
+Epoch: 46      Accuracy : 99.8127       Training cost: 132.5629     df: 1.6629     costT: 132.5629
+Epoch: 47      Accuracy : 99.82       Training cost: 131.0712     df: 1.4917     costT: 131.0712
+Epoch: 48      Accuracy : 99.8079       Training cost: 131.8914     df: -0.82013     costT: 131.8914
+Epoch: 49      Accuracy : 99.8249       Training cost: 128.7117     df: 3.1797     costT: 128.7117
+Epoch: 50      Accuracy : 99.8273       Training cost: 128.0945     df: 0.61716     costT: 128.0945
+Epoch: 51      Accuracy : 99.8054       Training cost: 131.918     df: -3.8235     costT: 131.918
+Epoch: 52      Accuracy : 99.8249       Training cost: 127.2755     df: 4.6425     costT: 127.2755
+Epoch: 53      Accuracy : 99.8249       Training cost: 128.2984     df: -1.0229     costT: 128.2984
+Epoch: 54      Accuracy : 99.8273       Training cost: 125.7627     df: 2.5357     costT: 125.7627
+Epoch: 55      Accuracy : 99.8249       Training cost: 127.2876     df: -1.5249     costT: 127.2876
+Epoch: 56      Accuracy : 99.82       Training cost: 127.3507     df: -0.063036     costT: 127.3507
+Epoch: 57      Accuracy : 99.8346       Training cost: 122.9589     df: 4.3918     costT: 122.9589
+Epoch: 58      Accuracy : 99.8273       Training cost: 125.7949     df: -2.8361     costT: 125.7949
+Epoch: 59      Accuracy : 99.837       Training cost: 121.0857     df: 4.7093     costT: 121.0857
+Epoch: 60      Accuracy : 99.8273       Training cost: 123.2428     df: -2.1571     costT: 123.2428
+Epoch: 61      Accuracy : 99.837       Training cost: 122.6213     df: 0.62151     costT: 122.6213
+Epoch: 62      Accuracy : 99.8273       Training cost: 123.4126     df: -0.79133     costT: 123.4126
+Epoch: 63      Accuracy : 99.8346       Training cost: 119.6056     df: 3.807     costT: 119.6056
+Epoch: 64      Accuracy : 99.8297       Training cost: 124.7204     df: -5.1148     costT: 124.7204
+Epoch: 65      Accuracy : 99.8419       Training cost: 117.2555     df: 7.4649     costT: 117.2555
+Epoch: 66      Accuracy : 99.8468       Training cost: 115.3551     df: 1.9004     costT: 115.3551
+Epoch: 67      Accuracy : 99.8419       Training cost: 118.5099     df: -3.1548     costT: 118.5099
+Epoch: 68      Accuracy : 99.8468       Training cost: 117.1349     df: 1.375     costT: 117.1349
+Epoch: 69      Accuracy : 99.8419       Training cost: 117.292     df: -0.15707     costT: 117.292
+Epoch: 70      Accuracy : 99.8419       Training cost: 115.1441     df: 2.1479     costT: 115.1441
+Epoch: 71      Accuracy : 99.8565       Training cost: 112.8851     df: 2.2589     costT: 112.8851
+Epoch: 72      Accuracy : 99.8468       Training cost: 115.5006     df: -2.6155     costT: 115.5006
+Epoch: 73      Accuracy : 99.8516       Training cost: 112.9725     df: 2.5281     costT: 112.9725
+Epoch: 74      Accuracy : 99.8516       Training cost: 112.6962     df: 0.27629     costT: 112.6962
+Epoch: 75      Accuracy : 99.8589       Training cost: 109.6183     df: 3.0779     costT: 109.6183
+Epoch: 76      Accuracy : 99.8565       Training cost: 108.7963     df: 0.82199     costT: 108.7963
+Epoch: 77      Accuracy : 99.8541       Training cost: 108.2947     df: 0.50169     costT: 108.2947
+Epoch: 78      Accuracy : 99.837       Training cost: 115.5795     df: -7.2849     costT: 115.5795
+Epoch: 79      Accuracy : 99.8468       Training cost: 111.3601     df: 4.2194     costT: 111.3601
+Epoch: 80      Accuracy : 99.8468       Training cost: 111.5456     df: -0.18549     costT: 111.5456
+Epoch: 81      Accuracy : 99.8541       Training cost: 108.2108     df: 3.3349     costT: 108.2108
+Epoch: 82      Accuracy : 99.8468       Training cost: 108.1782     df: 0.032518     costT: 108.1782
+Epoch: 83      Accuracy : 99.8541       Training cost: 105.1597     df: 3.0185     costT: 105.1597
+Epoch: 84      Accuracy : 99.8565       Training cost: 104.4839     df: 0.67584     costT: 104.4839
+Epoch: 85      Accuracy : 99.8516       Training cost: 110.6156     df: -6.1317     costT: 110.6156
+Epoch: 86      Accuracy : 99.8419       Training cost: 114.7742     df: -4.1586     costT: 114.7742
+Epoch: 87      Accuracy : 99.8565       Training cost: 103.7112     df: 11.063     costT: 103.7112
+Epoch: 88      Accuracy : 99.8589       Training cost: 103.2276     df: 0.4836     costT: 103.2276
+Epoch: 89      Accuracy : 99.8589       Training cost: 105.7314     df: -2.5038     costT: 105.7314
+Epoch: 90      Accuracy : 99.8492       Training cost: 107.2764     df: -1.545     costT: 107.2764
+Epoch: 91      Accuracy : 99.8565       Training cost: 100.571     df: 6.7054     costT: 100.571
+Epoch: 92      Accuracy : 99.8492       Training cost: 107.8075     df: -7.2365     costT: 107.8075
+Epoch: 93      Accuracy : 99.8565       Training cost: 103.4573     df: 4.3502     costT: 103.4573
+Epoch: 94      Accuracy : 99.8662       Training cost: 100.604     df: 2.8532     costT: 100.604
+Epoch: 95      Accuracy : 99.8589       Training cost: 99.4977     df: 1.1063     costT: 99.4977
+Epoch: 96      Accuracy : 99.8541       Training cost: 98.7374     df: 0.76033     costT: 98.7374
+Epoch: 97      Accuracy : 99.8614       Training cost: 96.669     df: 2.0684     costT: 96.669
+Epoch: 98      Accuracy : 99.8541       Training cost: 96.1024     df: 0.56657     costT: 96.1024
+Epoch: 99      Accuracy : 99.8589       Training cost: 95.3932     df: 0.70926     costT: 95.3932
+Epoch: 100      Accuracy : 99.8638       Training cost: 96.6096     df: -1.2164     costT: 96.6096
+Epoch: 101      Accuracy : 99.8395       Training cost: 103.9146     df: -7.305     costT: 103.9146
+Epoch: 102      Accuracy : 99.8492       Training cost: 99.4169     df: 4.4977     costT: 99.4169
+Epoch: 103      Accuracy : 99.8614       Training cost: 94.3677     df: 5.0492     costT: 94.3677
+Epoch: 104      Accuracy : 99.8687       Training cost: 92.7045     df: 1.6632     costT: 92.7045
+Epoch: 105      Accuracy : 99.8516       Training cost: 95.9719     df: -3.2674     costT: 95.9719
+Epoch: 106      Accuracy : 99.8662       Training cost: 93.8653     df: 2.1066     costT: 93.8653
+Epoch: 107      Accuracy : 99.8614       Training cost: 95.1921     df: -1.3268     costT: 95.1921
+Epoch: 108      Accuracy : 99.8687       Training cost: 91.7686     df: 3.4234     costT: 91.7686
+Epoch: 109      Accuracy : 99.8638       Training cost: 92.5328     df: -0.7642     costT: 92.5328
+Epoch: 110      Accuracy : 99.8662       Training cost: 92.8766     df: -0.34375     costT: 92.8766
+Epoch: 111      Accuracy : 99.8662       Training cost: 91.1883     df: 1.6883     costT: 91.1883
+Epoch: 112      Accuracy : 99.8687       Training cost: 88.605     df: 2.5833     costT: 88.605
+Epoch: 113      Accuracy : 99.8711       Training cost: 87.1107     df: 1.4943     costT: 87.1107
+Epoch: 114      Accuracy : 99.8565       Training cost: 92.3545     df: -5.2438     costT: 92.3545
+Epoch: 115      Accuracy : 99.8638       Training cost: 91.9538     df: 0.40069     costT: 91.9538
+Epoch: 116      Accuracy : 99.8711       Training cost: 85.6606     df: 6.2931     costT: 85.6606
+Epoch: 117      Accuracy : 99.876       Training cost: 87.6491     df: -1.9885     costT: 87.6491
+Epoch: 118      Accuracy : 99.8662       Training cost: 89.6387     df: -1.9896     costT: 89.6387
+Epoch: 119      Accuracy : 99.8662       Training cost: 89.523     df: 0.11566     costT: 89.523
+Epoch: 120      Accuracy : 99.8881       Training cost: 81.851     df: 7.672     costT: 81.851
+Epoch: 121      Accuracy : 99.876       Training cost: 88.7202     df: -6.8692     costT: 88.7202
+Epoch: 122      Accuracy : 99.8784       Training cost: 84.782     df: 3.9383     costT: 84.782
+Epoch: 123      Accuracy : 99.8784       Training cost: 84.5325     df: 0.24945     costT: 84.5325
+Epoch: 124      Accuracy : 99.8881       Training cost: 82.6627     df: 1.8698     costT: 82.6627
+Epoch: 125      Accuracy : 99.8906       Training cost: 79.8829     df: 2.7798     costT: 79.8829
+Epoch: 126      Accuracy : 99.8784       Training cost: 83.2864     df: -3.4035     costT: 83.2864
+Epoch: 127      Accuracy : 99.8833       Training cost: 81.6361     df: 1.6503     costT: 81.6361
+Epoch: 128      Accuracy : 99.8808       Training cost: 81.4313     df: 0.20485     costT: 81.4313
+Epoch: 129      Accuracy : 99.8784       Training cost: 83.6221     df: -2.1908     costT: 83.6221
+Epoch: 130      Accuracy : 99.8881       Training cost: 79.8878     df: 3.7343     costT: 79.8878
+Epoch: 131      Accuracy : 99.893       Training cost: 77.6306     df: 2.2572     costT: 77.6306
+Epoch: 132      Accuracy : 99.8784       Training cost: 82.8187     df: -5.1882     costT: 82.8187
+Epoch: 133      Accuracy : 99.8857       Training cost: 80.2564     df: 2.5623     costT: 80.2564
+Epoch: 134      Accuracy : 99.8906       Training cost: 76.3436     df: 3.9128     costT: 76.3436
+Epoch: 135      Accuracy : 99.893       Training cost: 76.2469     df: 0.09668     costT: 76.2469
+Epoch: 136      Accuracy : 99.8954       Training cost: 74.6423     df: 1.6046     costT: 74.6423
+Epoch: 137      Accuracy : 99.8881       Training cost: 75.3662     df: -0.72392     costT: 75.3662
+Epoch: 138      Accuracy : 99.8954       Training cost: 73.9633     df: 1.4029     costT: 73.9633
+Epoch: 139      Accuracy : 99.8881       Training cost: 76.7936     df: -2.8302     costT: 76.7936
+Epoch: 140      Accuracy : 99.8978       Training cost: 73.6767     df: 3.1169     costT: 73.6767
+Epoch: 141      Accuracy : 99.9027       Training cost: 72.5882     df: 1.0884     costT: 72.5882
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.9018
+
+Epoch: 1      Accuracy : 99.893       Training cost: 74.9497     df: -74.9497     costT: 74.9497
+Epoch: 2      Accuracy : 99.8978       Training cost: 74.9325     df: 0.017212     costT: 74.9325
+Epoch: 3      Accuracy : 99.8954       Training cost: 74.3233     df: 0.60916     costT: 74.3233
+Epoch: 4      Accuracy : 99.8906       Training cost: 77.8323     df: -3.509     costT: 77.8323
+Epoch: 5      Accuracy : 99.9003       Training cost: 73.67     df: 4.1623     costT: 73.67
+Epoch: 6      Accuracy : 99.9003       Training cost: 72.2937     df: 1.3763     costT: 72.2937
+Epoch: 7      Accuracy : 99.893       Training cost: 75.5477     df: -3.2539     costT: 75.5477
+Epoch: 8      Accuracy : 99.8978       Training cost: 73.0417     df: 2.5059     costT: 73.0417
+Epoch: 9      Accuracy : 99.9051       Training cost: 69.4057     df: 3.636     costT: 69.4057
+Epoch: 10      Accuracy : 99.9003       Training cost: 70.0209     df: -0.6152     costT: 70.0209
+Epoch: 11      Accuracy : 99.893       Training cost: 75.9837     df: -5.9629     costT: 75.9837
+Epoch: 12      Accuracy : 99.9027       Training cost: 69.228     df: 6.7557     costT: 69.228
+Epoch: 13      Accuracy : 99.8954       Training cost: 69.5135     df: -0.2855     costT: 69.5135
+Epoch: 14      Accuracy : 99.9003       Training cost: 71.4133     df: -1.8998     costT: 71.4133
+Epoch: 15      Accuracy : 99.91       Training cost: 67.8381     df: 3.5753     costT: 67.8381
+Epoch: 16      Accuracy : 99.9076       Training cost: 67.5934     df: 0.24465     costT: 67.5934
+Epoch: 17      Accuracy : 99.9003       Training cost: 68.2374     df: -0.64399     costT: 68.2374
+Epoch: 18      Accuracy : 99.9051       Training cost: 68.9165     df: -0.67914     costT: 68.9165
+Epoch: 19      Accuracy : 99.8978       Training cost: 68.1027     df: 0.81381     costT: 68.1027
+Epoch: 20      Accuracy : 99.8954       Training cost: 70.3989     df: -2.2962     costT: 70.3989
+Epoch: 21      Accuracy : 99.9149       Training cost: 67.0328     df: 3.3661     costT: 67.0328
+Epoch: 22      Accuracy : 99.9076       Training cost: 65.6365     df: 1.3963     costT: 65.6365
+Epoch: 23      Accuracy : 99.9027       Training cost: 68.8868     df: -3.2503     costT: 68.8868
+Epoch: 24      Accuracy : 99.9076       Training cost: 67.3657     df: 1.5212     costT: 67.3657
+Epoch: 25      Accuracy : 99.9124       Training cost: 65.5566     df: 1.8091     costT: 65.5566
+Epoch: 26      Accuracy : 99.9051       Training cost: 65.9303     df: -0.37376     costT: 65.9303
+Epoch: 27      Accuracy : 99.9149       Training cost: 67.0982     df: -1.1679     costT: 67.0982
+Epoch: 28      Accuracy : 99.9149       Training cost: 64.1978     df: 2.9004     costT: 64.1978
+Epoch: 29      Accuracy : 99.9003       Training cost: 71.4837     df: -7.2859     costT: 71.4837
+Epoch: 30      Accuracy : 99.9051       Training cost: 68.6504     df: 2.8333     costT: 68.6504
+Epoch: 31      Accuracy : 99.9003       Training cost: 71.4937     df: -2.8433     costT: 71.4937
+Epoch: 32      Accuracy : 99.9027       Training cost: 69.8729     df: 1.6208     costT: 69.8729
+Epoch: 33      Accuracy : 99.9076       Training cost: 69.3097     df: 0.56316     costT: 69.3097
+Epoch: 34      Accuracy : 99.9027       Training cost: 67.3645     df: 1.9452     costT: 67.3645
+Epoch: 35      Accuracy : 99.9222       Training cost: 65.5596     df: 1.8049     costT: 65.5596
+Epoch: 36      Accuracy : 99.9027       Training cost: 67.8833     df: -2.3237     costT: 67.8833
+Epoch: 37      Accuracy : 99.9197       Training cost: 62.2025     df: 5.6808     costT: 62.2025
+Epoch: 38      Accuracy : 99.9246       Training cost: 61.8979     df: 0.30467     costT: 61.8979
+Epoch: 39      Accuracy : 99.9197       Training cost: 61.082     df: 0.81586     costT: 61.082
+Epoch: 40      Accuracy : 99.9149       Training cost: 61.6746     df: -0.5926     costT: 61.6746
+Epoch: 41      Accuracy : 99.9149       Training cost: 63.0124     df: -1.3378     costT: 63.0124
+Epoch: 42      Accuracy : 99.9222       Training cost: 62.0544     df: 0.95799     costT: 62.0544
+Epoch: 43      Accuracy : 99.9197       Training cost: 64.1691     df: -2.1147     costT: 64.1691
+Epoch: 44      Accuracy : 99.9149       Training cost: 61.2105     df: 2.9585     costT: 61.2105
+Epoch: 45      Accuracy : 99.9076       Training cost: 61.7918     df: -0.58126     costT: 61.7918
+Epoch: 46      Accuracy : 99.9149       Training cost: 61.9937     df: -0.20187     costT: 61.9937
+Epoch: 47      Accuracy : 99.9222       Training cost: 59.7561     df: 2.2376     costT: 59.7561
+Epoch: 48      Accuracy : 99.9246       Training cost: 59.2319     df: 0.52414     costT: 59.2319
+Epoch: 49      Accuracy : 99.927       Training cost: 58.788     df: 0.44392     costT: 58.788
+Epoch: 50      Accuracy : 99.9246       Training cost: 58.5692     df: 0.21883     costT: 58.5692
+Epoch: 51      Accuracy : 99.9173       Training cost: 60.8457     df: -2.2766     costT: 60.8457
+Epoch: 52      Accuracy : 99.9222       Training cost: 59.0823     df: 1.7634     costT: 59.0823
+Epoch: 53      Accuracy : 99.9149       Training cost: 61.9501     df: -2.8678     costT: 61.9501
+Epoch: 54      Accuracy : 99.9197       Training cost: 58.5814     df: 3.3686     costT: 58.5814
+Epoch: 55      Accuracy : 99.9246       Training cost: 56.8431     df: 1.7383     costT: 56.8431
+Epoch: 56      Accuracy : 99.9295       Training cost: 56.8624     df: -0.019259     costT: 56.8624
+Epoch: 57      Accuracy : 99.9246       Training cost: 56.5278     df: 0.33459     costT: 56.5278
+Epoch: 58      Accuracy : 99.9149       Training cost: 62.2819     df: -5.7542     costT: 62.2819
+Epoch: 59      Accuracy : 99.9222       Training cost: 56.9096     df: 5.3723     costT: 56.9096
+Epoch: 60      Accuracy : 99.9246       Training cost: 55.5166     df: 1.393     costT: 55.5166
+Epoch: 61      Accuracy : 99.927       Training cost: 57.0098     df: -1.4932     costT: 57.0098
+Epoch: 62      Accuracy : 99.9197       Training cost: 56.7694     df: 0.24044     costT: 56.7694
+Epoch: 63      Accuracy : 99.9222       Training cost: 55.2897     df: 1.4797     costT: 55.2897
+Epoch: 64      Accuracy : 99.9246       Training cost: 55.4156     df: -0.12597     costT: 55.4156
+Epoch: 65      Accuracy : 99.9197       Training cost: 58.5983     df: -3.1827     costT: 58.5983
+Epoch: 66      Accuracy : 99.9246       Training cost: 54.9155     df: 3.6828     costT: 54.9155
+Epoch: 67      Accuracy : 99.9246       Training cost: 56.6406     df: -1.7251     costT: 56.6406
+Epoch: 68      Accuracy : 99.927       Training cost: 56.0708     df: 0.56982     costT: 56.0708
+Epoch: 69      Accuracy : 99.9222       Training cost: 56.1505     df: -0.079679     costT: 56.1505
+Epoch: 70      Accuracy : 99.9222       Training cost: 54.3901     df: 1.7604     costT: 54.3901
+Epoch: 71      Accuracy : 99.9246       Training cost: 54.1335     df: 0.25665     costT: 54.1335
+Epoch: 72      Accuracy : 99.9295       Training cost: 54.3364     df: -0.20298     costT: 54.3364
+Epoch: 73      Accuracy : 99.9246       Training cost: 54.9307     df: -0.59432     costT: 54.9307
+Epoch: 74      Accuracy : 99.927       Training cost: 53.8752     df: 1.0556     costT: 53.8752
+Epoch: 75      Accuracy : 99.927       Training cost: 53.9747     df: -0.099579     costT: 53.9747
+Epoch: 76      Accuracy : 99.9197       Training cost: 53.3494     df: 0.62532     costT: 53.3494
+Epoch: 77      Accuracy : 99.927       Training cost: 52.9448     df: 0.40464     costT: 52.9448
+Epoch: 78      Accuracy : 99.9149       Training cost: 57.622     df: -4.6772     costT: 57.622
+Epoch: 79      Accuracy : 99.927       Training cost: 55.5611     df: 2.0609     costT: 55.5611
+Epoch: 80      Accuracy : 99.9124       Training cost: 57.9866     df: -2.4255     costT: 57.9866
+Epoch: 81      Accuracy : 99.927       Training cost: 52.0772     df: 5.9094     costT: 52.0772
+Epoch: 82      Accuracy : 99.9197       Training cost: 56.7035     df: -4.6263     costT: 56.7035
+Epoch: 83      Accuracy : 99.9197       Training cost: 55.6058     df: 1.0976     costT: 55.6058
+Epoch: 84      Accuracy : 99.9173       Training cost: 56.5302     df: -0.92438     costT: 56.5302
+Epoch: 85      Accuracy : 99.9149       Training cost: 55.9943     df: 0.53593     costT: 55.9943
+Epoch: 86      Accuracy : 99.9076       Training cost: 59.1939     df: -3.1996     costT: 59.1939
+Epoch: 87      Accuracy : 99.9222       Training cost: 52.0554     df: 7.1385     costT: 52.0554
+Epoch: 88      Accuracy : 99.9197       Training cost: 54.9659     df: -2.9105     costT: 54.9659
+Epoch: 89      Accuracy : 99.9222       Training cost: 51.4889     df: 3.477     costT: 51.4889
+Epoch: 90      Accuracy : 99.9173       Training cost: 52.9637     df: -1.4748     costT: 52.9637
+Epoch: 91      Accuracy : 99.927       Training cost: 51.927     df: 1.0367     costT: 51.927
+Epoch: 92      Accuracy : 99.9246       Training cost: 51.0454     df: 0.88163     costT: 51.0454
+Epoch: 93      Accuracy : 99.927       Training cost: 52.0084     df: -0.96295     costT: 52.0084
+Epoch: 94      Accuracy : 99.9197       Training cost: 54.4492     df: -2.4409     costT: 54.4492
+Epoch: 95      Accuracy : 99.9246       Training cost: 51.6129     df: 2.8363     costT: 51.6129
+Epoch: 96      Accuracy : 99.927       Training cost: 52.5393     df: -0.92638     costT: 52.5393
+Epoch: 97      Accuracy : 99.9295       Training cost: 50.9995     df: 1.5398     costT: 50.9995
+Epoch: 98      Accuracy : 99.9246       Training cost: 52.161     df: -1.1615     costT: 52.161
+Epoch: 99      Accuracy : 99.9173       Training cost: 55.0918     df: -2.9309     costT: 55.0918
+Epoch: 100      Accuracy : 99.9246       Training cost: 53.0589     df: 2.0329     costT: 53.0589
+Epoch: 101      Accuracy : 99.927       Training cost: 51.9039     df: 1.155     costT: 51.9039
+Epoch: 102      Accuracy : 99.9246       Training cost: 50.3363     df: 1.5676     costT: 50.3363
+Epoch: 103      Accuracy : 99.9222       Training cost: 49.6568     df: 0.67947     costT: 49.6568
+Epoch: 104      Accuracy : 99.927       Training cost: 49.428     df: 0.22882     costT: 49.428
+Epoch: 105      Accuracy : 99.9246       Training cost: 52.0832     df: -2.6552     costT: 52.0832
+Epoch: 106      Accuracy : 99.9246       Training cost: 50.6243     df: 1.4589     costT: 50.6243
+Epoch: 107      Accuracy : 99.9197       Training cost: 51.3892     df: -0.76491     costT: 51.3892
+Epoch: 108      Accuracy : 99.9295       Training cost: 49.413     df: 1.9762     costT: 49.413
+Epoch: 109      Accuracy : 99.927       Training cost: 49.577     df: -0.16403     costT: 49.577
+Epoch: 110      Accuracy : 99.9295       Training cost: 48.7435     df: 0.83351     costT: 48.7435
+Epoch: 111      Accuracy : 99.9149       Training cost: 54.8282     df: -6.0847     costT: 54.8282
+Epoch: 112      Accuracy : 99.927       Training cost: 48.5484     df: 6.2799     costT: 48.5484
+Epoch: 113      Accuracy : 99.927       Training cost: 47.6858     df: 0.86261     costT: 47.6858
+Epoch: 114      Accuracy : 99.927       Training cost: 49.381     df: -1.6953     costT: 49.381
+Epoch: 115      Accuracy : 99.927       Training cost: 48.6542     df: 0.72683     costT: 48.6542
+Epoch: 116      Accuracy : 99.9343       Training cost: 46.8875     df: 1.7666     costT: 46.8875
+Epoch: 117      Accuracy : 99.9222       Training cost: 48.492     df: -1.6044     costT: 48.492
+Epoch: 118      Accuracy : 99.927       Training cost: 47.11     df: 1.382     costT: 47.11
+Epoch: 119      Accuracy : 99.9246       Training cost: 46.6711     df: 0.43883     costT: 46.6711
+Epoch: 120      Accuracy : 99.9295       Training cost: 47.8691     df: -1.198     costT: 47.8691
+Epoch: 121      Accuracy : 99.927       Training cost: 49.2307     df: -1.3616     costT: 49.2307
+Epoch: 122      Accuracy : 99.9295       Training cost: 46.3869     df: 2.8437     costT: 46.3869
+Epoch: 123      Accuracy : 99.9319       Training cost: 47.2708     df: -0.88389     costT: 47.2708
+Epoch: 124      Accuracy : 99.9246       Training cost: 46.7427     df: 0.52809     costT: 46.7427
+Epoch: 125      Accuracy : 99.9246       Training cost: 49.4053     df: -2.6626     costT: 49.4053
+Epoch: 126      Accuracy : 99.9295       Training cost: 48.7227     df: 0.68257     costT: 48.7227
+Epoch: 127      Accuracy : 99.9319       Training cost: 47.6855     df: 1.0373     costT: 47.6855
+Epoch: 128      Accuracy : 99.9319       Training cost: 46.3691     df: 1.3164     costT: 46.3691
+Epoch: 129      Accuracy : 99.9343       Training cost: 45.308     df: 1.0612     costT: 45.308
+Epoch: 130      Accuracy : 99.9295       Training cost: 47.7361     df: -2.4282     costT: 47.7361
+Epoch: 131      Accuracy : 99.9343       Training cost: 46.3022     df: 1.4339     costT: 46.3022
+Epoch: 132      Accuracy : 99.9368       Training cost: 46.07     df: 0.23221     costT: 46.07
+Epoch: 133      Accuracy : 99.9319       Training cost: 45.2025     df: 0.86754     costT: 45.2025
+Epoch: 134      Accuracy : 99.9319       Training cost: 44.6093     df: 0.59317     costT: 44.6093
+Epoch: 135      Accuracy : 99.927       Training cost: 49.4911     df: -4.8818     costT: 49.4911
+Epoch: 136      Accuracy : 99.9319       Training cost: 47.6872     df: 1.8039     costT: 47.6872
+Epoch: 137      Accuracy : 99.9368       Training cost: 44.8061     df: 2.8811     costT: 44.8061
+Epoch: 138      Accuracy : 99.9319       Training cost: 46.0812     df: -1.2751     costT: 46.0812
+Epoch: 139      Accuracy : 99.9295       Training cost: 46.6691     df: -0.58787     costT: 46.6691
+Epoch: 140      Accuracy : 99.927       Training cost: 48.096     df: -1.4269     costT: 48.096
+Epoch: 141      Accuracy : 99.9319       Training cost: 43.8943     df: 4.2017     costT: 43.8943
+Epoch: 142      Accuracy : 99.9368       Training cost: 44.7196     df: -0.82532     costT: 44.7196
+Epoch: 143      Accuracy : 99.9343       Training cost: 44.8498     df: -0.13022     costT: 44.8498
+Epoch: 144      Accuracy : 99.927       Training cost: 44.9145     df: -0.064706     costT: 44.9145
+Epoch: 145      Accuracy : 99.9343       Training cost: 45.1024     df: -0.18792     costT: 45.1024
+Epoch: 146      Accuracy : 99.9343       Training cost: 44.2046     df: 0.89781     costT: 44.2046
+Epoch: 147      Accuracy : 99.9295       Training cost: 45.7959     df: -1.5912     costT: 45.7959
+Epoch: 148      Accuracy : 99.9343       Training cost: 44.7338     df: 1.062     costT: 44.7338
+Epoch: 149      Accuracy : 99.927       Training cost: 47.6106     df: -2.8768     costT: 47.6106
+Epoch: 150      Accuracy : 99.9343       Training cost: 43.2995     df: 4.3111     costT: 43.2995
+Epoch: 151      Accuracy : 99.9246       Training cost: 49.6626     df: -6.3631     costT: 49.6626
+Epoch: 152      Accuracy : 99.9368       Training cost: 42.7611     df: 6.9015     costT: 42.7611
+Epoch: 153      Accuracy : 99.9319       Training cost: 46.5378     df: -3.7767     costT: 46.5378
+Epoch: 154      Accuracy : 99.9343       Training cost: 43.962     df: 2.5758     costT: 43.962
+Epoch: 155      Accuracy : 99.9392       Training cost: 43.9172     df: 0.044863     costT: 43.9172
+Epoch: 156      Accuracy : 99.9368       Training cost: 44.0741     df: -0.15697     costT: 44.0741
+Epoch: 157      Accuracy : 99.9368       Training cost: 43.5443     df: 0.52982     costT: 43.5443
+Epoch: 158      Accuracy : 99.9368       Training cost: 43.3964     df: 0.14793     costT: 43.3964
+Epoch: 159      Accuracy : 99.9416       Training cost: 42.9255     df: 0.4709     costT: 42.9255
+Epoch: 160      Accuracy : 99.9343       Training cost: 44.8165     df: -1.891     costT: 44.8165
+Epoch: 161      Accuracy : 99.9368       Training cost: 43.6905     df: 1.126     costT: 43.6905
+Epoch: 162      Accuracy : 99.927       Training cost: 49.1453     df: -5.4548     costT: 49.1453
+Epoch: 163      Accuracy : 99.9441       Training cost: 42.8452     df: 6.3001     costT: 42.8452
+Epoch: 164      Accuracy : 99.9368       Training cost: 42.2951     df: 0.55011     costT: 42.2951
+Epoch: 165      Accuracy : 99.9319       Training cost: 45.6691     df: -3.3739     costT: 45.6691
+Epoch: 166      Accuracy : 99.9392       Training cost: 42.379     df: 3.29     costT: 42.379
+Epoch: 167      Accuracy : 99.9343       Training cost: 45.3364     df: -2.9573     costT: 45.3364
+Epoch: 168      Accuracy : 99.9392       Training cost: 42.3141     df: 3.0223     costT: 42.3141
+Epoch: 169      Accuracy : 99.9392       Training cost: 42.223     df: 0.091103     costT: 42.223
+Epoch: 170      Accuracy : 99.9343       Training cost: 45.0212     df: -2.7983     costT: 45.0212
+Epoch: 171      Accuracy : 99.9416       Training cost: 42.1201     df: 2.9011     costT: 42.1201
+Epoch: 172      Accuracy : 99.9416       Training cost: 42.0217     df: 0.098377     costT: 42.0217
+Epoch: 173      Accuracy : 99.9416       Training cost: 41.8959     df: 0.12581     costT: 41.8959
+Epoch: 174      Accuracy : 99.9416       Training cost: 42.0788     df: -0.18294     costT: 42.0788
+Epoch: 175      Accuracy : 99.9343       Training cost: 45.0278     df: -2.9489     costT: 45.0278
+Epoch: 176      Accuracy : 99.9441       Training cost: 41.4231     df: 3.6047     costT: 41.4231
+Epoch: 177      Accuracy : 99.9441       Training cost: 43.1943     df: -1.7712     costT: 43.1943
+Epoch: 178      Accuracy : 99.9392       Training cost: 41.4663     df: 1.728     costT: 41.4663
+Epoch: 179      Accuracy : 99.9416       Training cost: 41.9689     df: -0.50261     costT: 41.9689
+Epoch: 180      Accuracy : 99.9416       Training cost: 41.7618     df: 0.20712     costT: 41.7618
+Epoch: 181      Accuracy : 99.9392       Training cost: 42.1141     df: -0.35235     costT: 42.1141
+Epoch: 182      Accuracy : 99.9222       Training cost: 49.8383     df: -7.7242     costT: 49.8383
+Epoch: 183      Accuracy : 99.9441       Training cost: 42.3782     df: 7.4601     costT: 42.3782
+Epoch: 184      Accuracy : 99.9465       Training cost: 40.9357     df: 1.4424     costT: 40.9357
+Epoch: 185      Accuracy : 99.9441       Training cost: 43.2201     df: -2.2844     costT: 43.2201
+Epoch: 186      Accuracy : 99.9441       Training cost: 41.6581     df: 1.562     costT: 41.6581
+Epoch: 187      Accuracy : 99.9368       Training cost: 42.8324     df: -1.1743     costT: 42.8324
+Epoch: 188      Accuracy : 99.9441       Training cost: 41.9273     df: 0.90512     costT: 41.9273
+Epoch: 189      Accuracy : 99.9441       Training cost: 43.1091     df: -1.1818     costT: 43.1091
+Epoch: 190      Accuracy : 99.9465       Training cost: 41.7835     df: 1.3256     costT: 41.7835
+Epoch: 191      Accuracy : 99.9441       Training cost: 41.8726     df: -0.089149     costT: 41.8726
+Epoch: 192      Accuracy : 99.9392       Training cost: 46.2526     df: -4.38     costT: 46.2526
+Epoch: 193      Accuracy : 99.9368       Training cost: 46.9568     df: -0.70419     costT: 46.9568
+Epoch: 194      Accuracy : 99.9343       Training cost: 54.3168     df: -7.36     costT: 54.3168
+Epoch: 195      Accuracy : 99.9441       Training cost: 47.5925     df: 6.7243     costT: 47.5925
+Epoch: 196      Accuracy : 99.8954       Training cost: 50.8112     df: -3.2187     costT: 50.8112
+Epoch: 197      Accuracy : 99.8978       Training cost: 60.0542     df: -9.2431     costT: 60.0542
+Epoch: 198      Accuracy : 99.8881       Training cost: 68.5513     df: -8.497     costT: 68.5513
+Epoch: 199      Accuracy : 99.893       Training cost: 68.993     df: -0.44178     costT: 68.993
+Epoch: 200      Accuracy : 99.893       Training cost: 72.6491     df: -3.6561     costT: 72.6491
+Epoch: 201      Accuracy : 99.8906       Training cost: 75.3331     df: -2.684     costT: 75.3331
+Epoch: 202      Accuracy : 99.8954       Training cost: 75.3177     df: 0.015419     costT: 75.3177
+Epoch: 203      Accuracy : 99.893       Training cost: 76.7638     df: -1.4461     costT: 76.7638
+Epoch: 204      Accuracy : 99.8881       Training cost: 77.0825     df: -0.31872     costT: 77.0825
+Epoch: 205      Accuracy : 99.8881       Training cost: 76.6555     df: 0.42701     costT: 76.6555
+Epoch: 206      Accuracy : 99.893       Training cost: 76.0754     df: 0.58011     costT: 76.0754
+Epoch: 207      Accuracy : 99.8978       Training cost: 75.6519     df: 0.42345     costT: 75.6519
+Epoch: 208      Accuracy : 99.893       Training cost: 78.4189     df: -2.767     costT: 78.4189
+Epoch: 209      Accuracy : 99.893       Training cost: 75.9639     df: 2.455     costT: 75.9639
+Epoch: 210      Accuracy : 99.9003       Training cost: 76.2313     df: -0.26731     costT: 76.2313
+Epoch: 211      Accuracy : 99.8954       Training cost: 78.3816     df: -2.1503     costT: 78.3816
+Epoch: 212      Accuracy : 99.9027       Training cost: 75.6833     df: 2.6982     costT: 75.6833
+Epoch: 213      Accuracy : 99.8978       Training cost: 76.1931     df: -0.50976     costT: 76.1931
+Epoch: 214      Accuracy : 99.8978       Training cost: 76.0951     df: 0.097942     costT: 76.0951
+Epoch: 215      Accuracy : 99.893       Training cost: 76.7454     df: -0.65028     costT: 76.7454
+Epoch: 216      Accuracy : 99.8978       Training cost: 76.1191     df: 0.62631     costT: 76.1191
+Epoch: 217      Accuracy : 99.893       Training cost: 77.0762     df: -0.9571     costT: 77.0762
+Epoch: 218      Accuracy : 99.893       Training cost: 77.358     df: -0.28179     costT: 77.358
+Epoch: 219      Accuracy : 99.8906       Training cost: 77.8452     df: -0.4872     costT: 77.8452
+Epoch: 220      Accuracy : 99.9003       Training cost: 75.5199     df: 2.3253     costT: 75.5199
+Epoch: 221      Accuracy : 99.876       Training cost: 88.8558     df: -13.3359     costT: 88.8558
+Epoch: 222      Accuracy : 99.8954       Training cost: 77.5495     df: 11.3064     costT: 77.5495
+Epoch: 223      Accuracy : 99.8906       Training cost: 80.6213     df: -3.0719     costT: 80.6213
+Epoch: 224      Accuracy : 99.8954       Training cost: 76.0923     df: 4.529     costT: 76.0923
+Epoch: 225      Accuracy : 99.893       Training cost: 78.4758     df: -2.3834     costT: 78.4758
+Epoch: 226      Accuracy : 99.8954       Training cost: 77.2946     df: 1.1811     costT: 77.2946
+Epoch: 227      Accuracy : 99.8978       Training cost: 77.438     df: -0.14334     costT: 77.438
+Epoch: 228      Accuracy : 99.9027       Training cost: 75.1104     df: 2.3275     costT: 75.1104
+Epoch: 229      Accuracy : 99.893       Training cost: 75.3797     df: -0.26929     costT: 75.3797
+Epoch: 230      Accuracy : 99.8978       Training cost: 75.6693     df: -0.28961     costT: 75.6693
+Epoch: 231      Accuracy : 99.8978       Training cost: 74.8226     df: 0.84678     costT: 74.8226
+Epoch: 232      Accuracy : 99.8906       Training cost: 80.1051     df: -5.2826     costT: 80.1051
+Epoch: 233      Accuracy : 99.9027       Training cost: 74.7937     df: 5.3115     costT: 74.7937
+Epoch: 234      Accuracy : 99.8857       Training cost: 80.557     df: -5.7634     costT: 80.557
+Epoch: 235      Accuracy : 99.8954       Training cost: 76.8044     df: 3.7526     costT: 76.8044
+Epoch: 236      Accuracy : 99.8978       Training cost: 74.9064     df: 1.898     costT: 74.9064
+Epoch: 237      Accuracy : 99.893       Training cost: 77.5001     df: -2.5937     costT: 77.5001
+Epoch: 238      Accuracy : 99.8954       Training cost: 77.5762     df: -0.076054     costT: 77.5762
+Epoch: 239      Accuracy : 99.9051       Training cost: 74.4165     df: 3.1597     costT: 74.4165
+Epoch: 240      Accuracy : 99.9027       Training cost: 72.7693     df: 1.6472     costT: 72.7693
+Epoch: 241      Accuracy : 99.9003       Training cost: 75.6103     df: -2.841     costT: 75.6103
+Epoch: 242      Accuracy : 99.9051       Training cost: 73.2212     df: 2.389     costT: 73.2212
+Epoch: 243      Accuracy : 99.9003       Training cost: 74.078     df: -0.85677     costT: 74.078
+Epoch: 244      Accuracy : 99.8881       Training cost: 76.8362     df: -2.7582     costT: 76.8362
+Epoch: 245      Accuracy : 99.9003       Training cost: 73.6582     df: 3.178     costT: 73.6582
+Epoch: 246      Accuracy : 99.8954       Training cost: 77.1289     df: -3.4707     costT: 77.1289
+Epoch: 247      Accuracy : 99.9003       Training cost: 73.9264     df: 3.2025     costT: 73.9264
+Epoch: 248      Accuracy : 99.8954       Training cost: 73.6096     df: 0.31685     costT: 73.6096
+Epoch: 249      Accuracy : 99.9027       Training cost: 72.2765     df: 1.333     costT: 72.2765
+Epoch: 250      Accuracy : 99.9051       Training cost: 71.7872     df: 0.48936     costT: 71.7872
+Epoch: 251      Accuracy : 99.9027       Training cost: 71.4877     df: 0.29946     costT: 71.4877
+Epoch: 252      Accuracy : 99.9027       Training cost: 72.4859     df: -0.99815     costT: 72.4859
+Epoch: 253      Accuracy : 99.9003       Training cost: 71.318     df: 1.1678     costT: 71.318
+Epoch: 254      Accuracy : 99.9051       Training cost: 71.293     df: 0.025006     costT: 71.293
+Epoch: 255      Accuracy : 99.8906       Training cost: 77.4066     df: -6.1136     costT: 77.4066
+Epoch: 256      Accuracy : 99.9003       Training cost: 72.1064     df: 5.3002     costT: 72.1064
+Epoch: 257      Accuracy : 99.9027       Training cost: 70.736     df: 1.3704     costT: 70.736
+Epoch: 258      Accuracy : 99.9027       Training cost: 72.9489     df: -2.2129     costT: 72.9489
+Epoch: 259      Accuracy : 99.9027       Training cost: 69.6501     df: 3.2988     costT: 69.6501
+Epoch: 260      Accuracy : 99.9003       Training cost: 71.5916     df: -1.9416     costT: 71.5916
+Epoch: 261      Accuracy : 99.893       Training cost: 74.3922     df: -2.8006     costT: 74.3922
+Epoch: 262      Accuracy : 99.8978       Training cost: 70.5701     df: 3.8221     costT: 70.5701
+Epoch: 263      Accuracy : 99.9051       Training cost: 68.4116     df: 2.1585     costT: 68.4116
+Epoch: 264      Accuracy : 99.893       Training cost: 72.1863     df: -3.7748     costT: 72.1863
+Epoch: 265      Accuracy : 99.9027       Training cost: 68.771     df: 3.4153     costT: 68.771
+Epoch: 266      Accuracy : 99.893       Training cost: 74.0278     df: -5.2568     costT: 74.0278
+Epoch: 267      Accuracy : 99.9076       Training cost: 68.9478     df: 5.08     costT: 68.9478
+Epoch: 268      Accuracy : 99.9003       Training cost: 70.385     df: -1.4372     costT: 70.385
+Epoch: 269      Accuracy : 99.9027       Training cost: 68.8499     df: 1.5351     costT: 68.8499
+Epoch: 270      Accuracy : 99.9003       Training cost: 69.4604     df: -0.61048     costT: 69.4604
+Epoch: 271      Accuracy : 99.9027       Training cost: 67.9026     df: 1.5578     costT: 67.9026
+Epoch: 272      Accuracy : 99.9003       Training cost: 67.7331     df: 0.16953     costT: 67.7331
+Epoch: 273      Accuracy : 99.8881       Training cost: 72.4788     df: -4.7457     costT: 72.4788
+Epoch: 274      Accuracy : 99.9076       Training cost: 66.5154     df: 5.9634     costT: 66.5154
+Epoch: 275      Accuracy : 99.9003       Training cost: 69.4565     df: -2.9411     costT: 69.4565
+Epoch: 276      Accuracy : 99.9003       Training cost: 68.4005     df: 1.056     costT: 68.4005
+Epoch: 277      Accuracy : 99.9003       Training cost: 66.9637     df: 1.4368     costT: 66.9637
+Epoch: 278      Accuracy : 99.8906       Training cost: 71.4323     df: -4.4686     costT: 71.4323
+Epoch: 279      Accuracy : 99.9149       Training cost: 67.8033     df: 3.629     costT: 67.8033
+Epoch: 280      Accuracy : 99.9076       Training cost: 66.9398     df: 0.86347     costT: 66.9398
+Epoch: 281      Accuracy : 99.91       Training cost: 66.8292     df: 0.1106     costT: 66.8292
+Epoch: 282      Accuracy : 99.8978       Training cost: 65.7835     df: 1.0457     costT: 65.7835
+Epoch: 283      Accuracy : 99.8978       Training cost: 69.0894     df: -3.306     costT: 69.0894
+Epoch: 284      Accuracy : 99.9003       Training cost: 64.8543     df: 4.2352     costT: 64.8543
+Epoch: 285      Accuracy : 99.893       Training cost: 67.9548     df: -3.1006     costT: 67.9548
+Epoch: 286      Accuracy : 99.9076       Training cost: 64.8409     df: 3.1139     costT: 64.8409
+Epoch: 287      Accuracy : 99.91       Training cost: 63.9743     df: 0.86664     costT: 63.9743
+Epoch: 288      Accuracy : 99.9076       Training cost: 64.8932     df: -0.91896     costT: 64.8932
+Epoch: 289      Accuracy : 99.9027       Training cost: 64.7149     df: 0.17835     costT: 64.7149
+Epoch: 290      Accuracy : 99.91       Training cost: 63.0086     df: 1.7063     costT: 63.0086
+Epoch: 291      Accuracy : 99.91       Training cost: 65.4815     df: -2.4729     costT: 65.4815
+Epoch: 292      Accuracy : 99.9076       Training cost: 64.7435     df: 0.73804     costT: 64.7435
+Epoch: 293      Accuracy : 99.91       Training cost: 62.6809     df: 2.0626     costT: 62.6809
+Epoch: 294      Accuracy : 99.9076       Training cost: 63.4476     df: -0.76671     costT: 63.4476
+Epoch: 295      Accuracy : 99.9076       Training cost: 63.9638     df: -0.51619     costT: 63.9638
+Epoch: 296      Accuracy : 99.91       Training cost: 61.7889     df: 2.1749     costT: 61.7889
+Epoch: 297      Accuracy : 99.9027       Training cost: 64.4161     df: -2.6273     costT: 64.4161
+Epoch: 298      Accuracy : 99.91       Training cost: 61.697     df: 2.7192     costT: 61.697
+Epoch: 299      Accuracy : 99.9076       Training cost: 63.1683     df: -1.4713     costT: 63.1683
+Epoch: 300      Accuracy : 99.9051       Training cost: 62.5867     df: 0.58158     costT: 62.5867
+Epoch: 301      Accuracy : 99.91       Training cost: 62.4062     df: 0.18055     costT: 62.4062
+Epoch: 302      Accuracy : 99.91       Training cost: 62.0548     df: 0.35135     costT: 62.0548
+Epoch: 303      Accuracy : 99.9124       Training cost: 61.3556     df: 0.69927     costT: 61.3556
+Epoch: 304      Accuracy : 99.9003       Training cost: 64.2718     df: -2.9162     costT: 64.2718
+Epoch: 305      Accuracy : 99.9027       Training cost: 61.8564     df: 2.4154     costT: 61.8564
+Epoch: 306      Accuracy : 99.91       Training cost: 59.3886     df: 2.4678     costT: 59.3886
+Epoch: 307      Accuracy : 99.9051       Training cost: 61.0948     df: -1.7062     costT: 61.0948
+Epoch: 308      Accuracy : 99.9051       Training cost: 63.076     df: -1.9812     costT: 63.076
+Epoch: 309      Accuracy : 99.9076       Training cost: 60.308     df: 2.768     costT: 60.308
+Epoch: 310      Accuracy : 99.9076       Training cost: 59.9179     df: 0.39007     costT: 59.9179
+Epoch: 311      Accuracy : 99.9003       Training cost: 61.1179     df: -1.2     costT: 61.1179
+Epoch: 312      Accuracy : 99.8954       Training cost: 62.1005     df: -0.98251     costT: 62.1005
+Epoch: 313      Accuracy : 99.9027       Training cost: 58.5557     df: 3.5448     costT: 58.5557
+Epoch: 314      Accuracy : 99.8954       Training cost: 63.223     df: -4.6673     costT: 63.223
+Epoch: 315      Accuracy : 99.9027       Training cost: 60.0085     df: 3.2145     costT: 60.0085
+Epoch: 316      Accuracy : 99.9027       Training cost: 62.2638     df: -2.2553     costT: 62.2638
+Epoch: 317      Accuracy : 99.9027       Training cost: 58.6992     df: 3.5645     costT: 58.6992
+Epoch: 318      Accuracy : 99.9051       Training cost: 59.5227     df: -0.82344     costT: 59.5227
+Epoch: 319      Accuracy : 99.9076       Training cost: 57.5464     df: 1.9763     costT: 57.5464
+Epoch: 320      Accuracy : 99.9076       Training cost: 58.7747     df: -1.2284     costT: 58.7747
+Epoch: 321      Accuracy : 99.9027       Training cost: 58.0922     df: 0.68249     costT: 58.0922
+Epoch: 322      Accuracy : 99.9076       Training cost: 57.7767     df: 0.31552     costT: 57.7767
+Epoch: 323      Accuracy : 99.9076       Training cost: 55.9204     df: 1.8564     costT: 55.9204
+Epoch: 324      Accuracy : 99.91       Training cost: 58.8784     df: -2.9581     costT: 58.8784
+Epoch: 325      Accuracy : 99.9027       Training cost: 57.9068     df: 0.97164     costT: 57.9068
+Epoch: 326      Accuracy : 99.9076       Training cost: 56.9645     df: 0.94234     costT: 56.9645
+Epoch: 327      Accuracy : 99.9076       Training cost: 57.4788     df: -0.51431     costT: 57.4788
+Epoch: 328      Accuracy : 99.91       Training cost: 54.9808     df: 2.4979     costT: 54.9808
+Epoch: 329      Accuracy : 99.9051       Training cost: 57.2246     df: -2.2438     costT: 57.2246
+Epoch: 330      Accuracy : 99.9051       Training cost: 57.6329     df: -0.40832     costT: 57.6329
+Epoch: 331      Accuracy : 99.9051       Training cost: 54.0847     df: 3.5483     costT: 54.0847
+Epoch: 332      Accuracy : 99.9124       Training cost: 55.0946     df: -1.0099     costT: 55.0946
+Epoch: 333      Accuracy : 99.91       Training cost: 54.439     df: 0.65559     costT: 54.439
+Epoch: 334      Accuracy : 99.91       Training cost: 54.1771     df: 0.26193     costT: 54.1771
+Epoch: 335      Accuracy : 99.91       Training cost: 54.237     df: -0.059953     costT: 54.237
+Epoch: 336      Accuracy : 99.91       Training cost: 53.8978     df: 0.33925     costT: 53.8978
+Epoch: 337      Accuracy : 99.9124       Training cost: 52.1476     df: 1.7502     costT: 52.1476
+Epoch: 338      Accuracy : 99.9051       Training cost: 56.7101     df: -4.5625     costT: 56.7101
+Epoch: 339      Accuracy : 99.9051       Training cost: 53.1544     df: 3.5557     costT: 53.1544
+Epoch: 340      Accuracy : 99.8954       Training cost: 62.2186     df: -9.0642     costT: 62.2186
+Epoch: 341      Accuracy : 99.91       Training cost: 52.5561     df: 9.6624     costT: 52.5561
+Epoch: 342      Accuracy : 99.91       Training cost: 53.2157     df: -0.6596     costT: 53.2157
+Epoch: 343      Accuracy : 99.9076       Training cost: 52.9926     df: 0.22314     costT: 52.9926
+Epoch: 344      Accuracy : 99.9124       Training cost: 52.3763     df: 0.61625     costT: 52.3763
+Epoch: 345      Accuracy : 99.9149       Training cost: 51.87     df: 0.5063     costT: 51.87
+Epoch: 346      Accuracy : 99.9076       Training cost: 52.8328     df: -0.9628     costT: 52.8328
+Epoch: 347      Accuracy : 99.91       Training cost: 51.6697     df: 1.1631     costT: 51.6697
+Epoch: 348      Accuracy : 99.9173       Training cost: 49.9414     df: 1.7283     costT: 49.9414
+Epoch: 349      Accuracy : 99.9076       Training cost: 52.9335     df: -2.9922     costT: 52.9335
+Epoch: 350      Accuracy : 99.9076       Training cost: 52.1664     df: 0.7671     costT: 52.1664
+Epoch: 351      Accuracy : 99.9149       Training cost: 50.1376     df: 2.0289     costT: 50.1376
+Epoch: 352      Accuracy : 99.9051       Training cost: 50.8456     df: -0.70803     costT: 50.8456
+Epoch: 353      Accuracy : 99.9124       Training cost: 49.999     df: 0.84655     costT: 49.999
+Epoch: 354      Accuracy : 99.9027       Training cost: 50.3995     df: -0.40046     costT: 50.3995
+Epoch: 355      Accuracy : 99.9124       Training cost: 50.304     df: 0.095506     costT: 50.304
+Epoch: 356      Accuracy : 99.9076       Training cost: 49.8328     df: 0.47123     costT: 49.8328
+Epoch: 357      Accuracy : 99.9051       Training cost: 51.4897     df: -1.657     costT: 51.4897
+Epoch: 358      Accuracy : 99.9076       Training cost: 49.6539     df: 1.8358     costT: 49.6539
+Epoch: 359      Accuracy : 99.9149       Training cost: 48.4833     df: 1.1705     costT: 48.4833
+Epoch: 360      Accuracy : 99.91       Training cost: 50.4096     df: -1.9263     costT: 50.4096
+Epoch: 361      Accuracy : 99.91       Training cost: 48.3535     df: 2.0561     costT: 48.3535
+Epoch: 362      Accuracy : 99.9076       Training cost: 48.997     df: -0.6435     costT: 48.997
+Epoch: 363      Accuracy : 99.9124       Training cost: 48.4256     df: 0.57135     costT: 48.4256
+Epoch: 364      Accuracy : 99.9149       Training cost: 50.2435     df: -1.8179     costT: 50.2435
+Epoch: 365      Accuracy : 99.9124       Training cost: 48.4157     df: 1.8278     costT: 48.4157
+Epoch: 366      Accuracy : 99.9124       Training cost: 48.7609     df: -0.34515     costT: 48.7609
+Epoch: 367      Accuracy : 99.9124       Training cost: 47.2274     df: 1.5334     costT: 47.2274
+Epoch: 368      Accuracy : 99.9124       Training cost: 47.1458     df: 0.081683     costT: 47.1458
+Epoch: 369      Accuracy : 99.9124       Training cost: 47.0019     df: 0.14387     costT: 47.0019
+Epoch: 370      Accuracy : 99.9124       Training cost: 47.6639     df: -0.662     costT: 47.6639
+Epoch: 371      Accuracy : 99.9076       Training cost: 47.1327     df: 0.53123     costT: 47.1327
+Epoch: 372      Accuracy : 99.9124       Training cost: 47.1617     df: -0.029063     costT: 47.1617
+Epoch: 373      Accuracy : 99.91       Training cost: 46.3641     df: 0.79757     costT: 46.3641
+Epoch: 374      Accuracy : 99.91       Training cost: 46.5224     df: -0.15826     costT: 46.5224
+Epoch: 375      Accuracy : 99.9124       Training cost: 45.9179     df: 0.60455     costT: 45.9179
+Epoch: 376      Accuracy : 99.9051       Training cost: 48.4372     df: -2.5194     costT: 48.4372
+Epoch: 377      Accuracy : 99.9076       Training cost: 46.0124     df: 2.4248     costT: 46.0124
+Epoch: 378      Accuracy : 99.91       Training cost: 46.7612     df: -0.74875     costT: 46.7612
+Epoch: 379      Accuracy : 99.91       Training cost: 45.6133     df: 1.1479     costT: 45.6133
+Epoch: 380      Accuracy : 99.9076       Training cost: 46.3645     df: -0.75124     costT: 46.3645
+Epoch: 381      Accuracy : 99.9124       Training cost: 45.6577     df: 0.70684     costT: 45.6577
+Epoch: 382      Accuracy : 99.91       Training cost: 45.0441     df: 0.61355     costT: 45.0441
+Epoch: 383      Accuracy : 99.91       Training cost: 46.3739     df: -1.3298     costT: 46.3739
+Epoch: 384      Accuracy : 99.91       Training cost: 45.3971     df: 0.9768     costT: 45.3971
+Epoch: 385      Accuracy : 99.9124       Training cost: 45.2863     df: 0.11082     costT: 45.2863
+Epoch: 386      Accuracy : 99.91       Training cost: 44.9239     df: 0.36242     costT: 44.9239
+Epoch: 387      Accuracy : 99.91       Training cost: 44.3809     df: 0.54293     costT: 44.3809
+Epoch: 388      Accuracy : 99.9076       Training cost: 46.2718     df: -1.8909     costT: 46.2718
+Epoch: 389      Accuracy : 99.9635       Training cost: 44.9913     df: 1.2805     costT: 44.9913
+Epoch: 390      Accuracy : 99.9635       Training cost: 44.096     df: 0.89527     costT: 44.096
+Epoch: 391      Accuracy : 99.9562       Training cost: 44.3468     df: -0.25073     costT: 44.3468
+Epoch: 392      Accuracy : 99.9611       Training cost: 45.6454     df: -1.2986     costT: 45.6454
+Epoch: 393      Accuracy : 99.9635       Training cost: 43.6663     df: 1.979     costT: 43.6663
+Epoch: 394      Accuracy : 99.9611       Training cost: 47.1019     df: -3.4356     costT: 47.1019
+Epoch: 395      Accuracy : 99.9076       Training cost: 47.5054     df: -0.40347     costT: 47.5054
+Epoch: 396      Accuracy : 99.9587       Training cost: 44.5451     df: 2.9603     costT: 44.5451
+Epoch: 397      Accuracy : 99.9635       Training cost: 43.4526     df: 1.0925     costT: 43.4526
+Epoch: 398      Accuracy : 99.9635       Training cost: 44.4092     df: -0.95656     costT: 44.4092
+Epoch: 399      Accuracy : 99.9587       Training cost: 43.2191     df: 1.1901     costT: 43.2191
+Epoch: 400      Accuracy : 99.9611       Training cost: 43.895     df: -0.67588     costT: 43.895
+Epoch: 401      Accuracy : 99.9587       Training cost: 43.0745     df: 0.8205     costT: 43.0745
+Epoch: 402      Accuracy : 99.9611       Training cost: 42.5108     df: 0.5637     costT: 42.5108
+Epoch: 403      Accuracy : 99.9611       Training cost: 42.9117     df: -0.40097     costT: 42.9117
+Epoch: 404      Accuracy : 99.9562       Training cost: 44.2529     df: -1.3412     costT: 44.2529
+Epoch: 405      Accuracy : 99.9587       Training cost: 43.2198     df: 1.0331     costT: 43.2198
+Epoch: 406      Accuracy : 99.9514       Training cost: 47.0417     df: -3.8219     costT: 47.0417
+Epoch: 407      Accuracy : 99.9587       Training cost: 42.7845     df: 4.2573     costT: 42.7845
+Epoch: 408      Accuracy : 99.9562       Training cost: 42.6792     df: 0.10527     costT: 42.6792
+Epoch: 409      Accuracy : 99.9562       Training cost: 42.6409     df: 0.03832     costT: 42.6409
+Epoch: 410      Accuracy : 99.9635       Training cost: 41.3716     df: 1.2693     costT: 41.3716
+Epoch: 411      Accuracy : 99.9587       Training cost: 41.8505     df: -0.47892     costT: 41.8505
+Epoch: 412      Accuracy : 99.9611       Training cost: 41.626     df: 0.22447     costT: 41.626
+Epoch: 413      Accuracy : 99.9587       Training cost: 41.6323     df: -0.0062696     costT: 41.6323
+Epoch: 414      Accuracy : 99.9587       Training cost: 42.0343     df: -0.40201     costT: 42.0343
+Epoch: 415      Accuracy : 99.9587       Training cost: 41.8707     df: 0.16366     costT: 41.8707
+Epoch: 416      Accuracy : 99.9587       Training cost: 40.7347     df: 1.1359     costT: 40.7347
+Epoch: 417      Accuracy : 99.9587       Training cost: 41.6249     df: -0.89011     costT: 41.6249
+Epoch: 418      Accuracy : 99.9611       Training cost: 41.5946     df: 0.030285     costT: 41.5946
+Epoch: 419      Accuracy : 99.9659       Training cost: 40.4071     df: 1.1875     costT: 40.4071
+Epoch: 420      Accuracy : 99.9611       Training cost: 40.7956     df: -0.38851     costT: 40.7956
+Epoch: 421      Accuracy : 99.9611       Training cost: 42.9314     df: -2.1358     costT: 42.9314
+Epoch: 422      Accuracy : 99.9635       Training cost: 41.0357     df: 1.8957     costT: 41.0357
+Epoch: 423      Accuracy : 99.9587       Training cost: 44.4674     df: -3.4317     costT: 44.4674
+Epoch: 424      Accuracy : 99.9587       Training cost: 40.9178     df: 3.5496     costT: 40.9178
+Epoch: 425      Accuracy : 99.9587       Training cost: 40.2632     df: 0.65467     costT: 40.2632
+Epoch: 426      Accuracy : 99.9635       Training cost: 40.0431     df: 0.22006     costT: 40.0431
+Epoch: 427      Accuracy : 99.9587       Training cost: 39.8168     df: 0.22634     costT: 39.8168
+Epoch: 428      Accuracy : 99.9684       Training cost: 38.8408     df: 0.97601     costT: 38.8408
+Epoch: 429      Accuracy : 99.9635       Training cost: 39.2041     df: -0.3633     costT: 39.2041
+Epoch: 430      Accuracy : 99.9611       Training cost: 38.6988     df: 0.50525     costT: 38.6988
+Epoch: 431      Accuracy : 99.9611       Training cost: 39.7987     df: -1.0999     costT: 39.7987
+Epoch: 432      Accuracy : 99.9635       Training cost: 38.1479     df: 1.6508     costT: 38.1479
+Epoch: 433      Accuracy : 99.9635       Training cost: 38.5476     df: -0.39974     costT: 38.5476
+Epoch: 434      Accuracy : 99.9611       Training cost: 37.695     df: 0.85258     costT: 37.695
+Epoch: 435      Accuracy : 99.9611       Training cost: 38.5374     df: -0.84232     costT: 38.5374
+Epoch: 436      Accuracy : 99.9611       Training cost: 37.1044     df: 1.433     costT: 37.1044
+Epoch: 437      Accuracy : 99.9611       Training cost: 37.0476     df: 0.056812     costT: 37.0476
+Epoch: 438      Accuracy : 99.9611       Training cost: 36.6968     df: 0.35072     costT: 36.6968
+Epoch: 439      Accuracy : 99.9611       Training cost: 37.6708     df: -0.97397     costT: 37.6708
+Epoch: 440      Accuracy : 99.9587       Training cost: 37.4832     df: 0.18757     costT: 37.4832
+Epoch: 441      Accuracy : 99.9562       Training cost: 39.7135     df: -2.2303     costT: 39.7135
+Epoch: 442      Accuracy : 99.9659       Training cost: 35.623     df: 4.0905     costT: 35.623
+Epoch: 443      Accuracy : 99.9587       Training cost: 35.203     df: 0.42002     costT: 35.203
+Epoch: 444      Accuracy : 99.9659       Training cost: 35.173     df: 0.029966     costT: 35.173
+Epoch: 445      Accuracy : 99.9611       Training cost: 35.0149     df: 0.15813     costT: 35.0149
+Epoch: 446      Accuracy : 99.9587       Training cost: 35.5206     df: -0.50576     costT: 35.5206
+Epoch: 447      Accuracy : 99.9562       Training cost: 36.9482     df: -1.4276     costT: 36.9482
+Epoch: 448      Accuracy : 99.9611       Training cost: 34.3821     df: 2.566     costT: 34.3821
+Epoch: 449      Accuracy : 99.9635       Training cost: 34.099     df: 0.28313     costT: 34.099
+Epoch: 450      Accuracy : 99.9611       Training cost: 35.0613     df: -0.96231     costT: 35.0613
+Epoch: 451      Accuracy : 99.9611       Training cost: 33.692     df: 1.3693     costT: 33.692
+Epoch: 452      Accuracy : 99.9635       Training cost: 33.5666     df: 0.12543     costT: 33.5666
+Epoch: 453      Accuracy : 99.9587       Training cost: 34.7197     df: -1.1531     costT: 34.7197
+Epoch: 454      Accuracy : 99.9635       Training cost: 33.1493     df: 1.5704     costT: 33.1493
+Epoch: 455      Accuracy : 99.9635       Training cost: 33.2456     df: -0.096325     costT: 33.2456
+Epoch: 456      Accuracy : 99.9611       Training cost: 33.2175     df: 0.028101     costT: 33.2175
+Epoch: 457      Accuracy : 99.9659       Training cost: 32.8559     df: 0.3616     costT: 32.8559
+Epoch: 458      Accuracy : 99.9684       Training cost: 32.9273     df: -0.071436     costT: 32.9273
+Epoch: 459      Accuracy : 99.9635       Training cost: 34.9689     df: -2.0415     costT: 34.9689
+Epoch: 460      Accuracy : 99.9587       Training cost: 34.3027     df: 0.66619     costT: 34.3027
+Epoch: 461      Accuracy : 99.9611       Training cost: 35.1232     df: -0.82046     costT: 35.1232
+Epoch: 462      Accuracy : 99.9684       Training cost: 32.0634     df: 3.0598     costT: 32.0634
+Epoch: 463      Accuracy : 99.9659       Training cost: 32.2869     df: -0.22347     costT: 32.2869
+Epoch: 464      Accuracy : 99.9611       Training cost: 32.8884     df: -0.60155     costT: 32.8884
+Epoch: 465      Accuracy : 99.9684       Training cost: 31.2745     df: 1.614     costT: 31.2745
+Epoch: 466      Accuracy : 99.9635       Training cost: 32.8819     df: -1.6075     costT: 32.8819
+Epoch: 467      Accuracy : 99.9659       Training cost: 30.9691     df: 1.9128     costT: 30.9691
+Epoch: 468      Accuracy : 99.9659       Training cost: 33.4371     df: -2.468     costT: 33.4371
+Epoch: 469      Accuracy : 99.9684       Training cost: 30.3649     df: 3.0722     costT: 30.3649
+Epoch: 470      Accuracy : 99.9684       Training cost: 31.3884     df: -1.0236     costT: 31.3884
+Epoch: 471      Accuracy : 99.9708       Training cost: 30.6935     df: 0.69499     costT: 30.6935
+Epoch: 472      Accuracy : 99.9684       Training cost: 29.9399     df: 0.75355     costT: 29.9399
+Epoch: 473      Accuracy : 99.9635       Training cost: 32.8515     df: -2.9116     costT: 32.8515
+Epoch: 474      Accuracy : 99.9659       Training cost: 31.0086     df: 1.843     costT: 31.0086
+Epoch: 475      Accuracy : 99.9684       Training cost: 29.6407     df: 1.3678     costT: 29.6407
+Epoch: 476      Accuracy : 99.9708       Training cost: 29.5625     df: 0.078237     costT: 29.5625
+Epoch: 477      Accuracy : 99.9659       Training cost: 31.9743     df: -2.4118     costT: 31.9743
+Epoch: 478      Accuracy : 99.9659       Training cost: 30.4749     df: 1.4994     costT: 30.4749
+Epoch: 479      Accuracy : 99.9708       Training cost: 29.4457     df: 1.0292     costT: 29.4457
+Epoch: 480      Accuracy : 99.9684       Training cost: 29.8114     df: -0.36568     costT: 29.8114
+Epoch: 481      Accuracy : 99.9708       Training cost: 29.7244     df: 0.087072     costT: 29.7244
+Epoch: 482      Accuracy : 99.9659       Training cost: 30.0259     df: -0.30159     costT: 30.0259
+Epoch: 483      Accuracy : 99.9659       Training cost: 29.5299     df: 0.49607     costT: 29.5299
+Epoch: 484      Accuracy : 99.9635       Training cost: 32.9958     df: -3.466     costT: 32.9958
+Epoch: 485      Accuracy : 99.9684       Training cost: 29.3848     df: 3.6111     costT: 29.3848
+Epoch: 486      Accuracy : 99.9684       Training cost: 28.4403     df: 0.94451     costT: 28.4403
+Epoch: 487      Accuracy : 99.9708       Training cost: 28.8458     df: -0.40549     costT: 28.8458
+Epoch: 488      Accuracy : 99.9708       Training cost: 28.7653     df: 0.080444     costT: 28.7653
+Epoch: 489      Accuracy : 99.9708       Training cost: 28.389     df: 0.37635     costT: 28.389
+Epoch: 490      Accuracy : 99.9708       Training cost: 28.1974     df: 0.19153     costT: 28.1974
+Epoch: 491      Accuracy : 99.9684       Training cost: 29.9035     df: -1.706     costT: 29.9035
+Epoch: 492      Accuracy : 99.9659       Training cost: 30.0437     df: -0.14018     costT: 30.0437
+Epoch: 493      Accuracy : 99.9708       Training cost: 27.9048     df: 2.1389     costT: 27.9048
+Epoch: 494      Accuracy : 99.9659       Training cost: 29.0596     df: -1.1548     costT: 29.0596
+Epoch: 495      Accuracy : 99.9659       Training cost: 27.7822     df: 1.2775     costT: 27.7822
+Epoch: 496      Accuracy : 99.9684       Training cost: 30.1443     df: -2.3621     costT: 30.1443
+Epoch: 497      Accuracy : 99.9708       Training cost: 27.9003     df: 2.244     costT: 27.9003
+Epoch: 498      Accuracy : 99.9659       Training cost: 27.3372     df: 0.56304     costT: 27.3372
+Epoch: 499      Accuracy : 99.9708       Training cost: 28.8548     df: -1.5175     costT: 28.8548
+Epoch: 500      Accuracy : 99.9708       Training cost: 28.2888     df: 0.56592     costT: 28.2888
+    "Done...!"
+
+
+TrainingAccuracy =
+
+   99.9705
